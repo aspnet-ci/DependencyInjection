@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0-*",
+  "version": "1.0.0-beta3",
   "dependencies": {
     "Autofac": "3.3.0",
-    "Microsoft.Framework.DependencyInjection": "1.0.0-*"
+    "Microsoft.Framework.DependencyInjection": "1.0.0-beta3"
   },
   "frameworks": {
-    "net45": { },
-    "aspnet50": { }
+    "net45": {},
+    "aspnet50": {}
   }
 }

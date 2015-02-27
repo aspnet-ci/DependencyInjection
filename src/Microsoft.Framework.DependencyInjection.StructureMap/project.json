@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0-*",
+  "version": "1.0.0-beta3",
   "dependencies": {
     "structuremap": "2.6.4.1"
   },
   "frameworks": {
-    "net45": { },
-    "aspnet50": { }
+    "net45": {},
+    "aspnet50": {}
   }
 }
